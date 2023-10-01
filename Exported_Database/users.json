@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "6402553a772a59eb40d615c2"
+  },
+  "name": "Terry Medhurst Smitham",
+  "age": 50,
+  "gender": "male",
+  "email": "atuny0@sohu.com",
+  "phone": {
+    "$numberLong": "63796758914"
+  },
+  "username": "atuny0",
+  "password": "9uQFF1Lh",
+  "birth_date": "2000-12-25",
+  "usr_img": "0002_1677874490413.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:14:50.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640255e0772a59eb40d615c4"
+  },
+  "name": "Sheldon Quigley Cole",
+  "age": 28,
+  "gender": "male",
+  "email": "hbingley1@plala.or.jp",
+  "phone": {
+    "$numberLong": "78131177139"
+  },
+  "username": "hbingley1",
+  "password": "CQutx25i8r",
+  "birth_date": "2003-08-02",
+  "usr_img": "0003_1677874656594.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:17:36.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640256be772a59eb40d615c6"
+  },
+  "name": "Terrill Hills Hoeger",
+  "age": 38,
+  "gender": "male",
+  "email": "rshawe2@51.la",
+  "phone": {
+    "$numberLong": "637392927942"
+  },
+  "username": "rshawe2",
+  "password": "OWsTbMUgFc",
+  "birth_date": "1992-12-30",
+  "usr_img": "0004_1677874878216.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:21:18.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64025709772a59eb40d615c8"
+  },
+  "name": "Miles Cummerata Maggio",
+  "age": 49,
+  "gender": "male",
+  "email": "yraigatt3@nature.com",
+  "phone": {
+    "$numberLong": "864611454186"
+  },
+  "username": "yraigatt3",
+  "password": "sRQxjPfdS",
+  "birth_date": "1969-01-16",
+  "usr_img": "0005_1677874952978.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:22:33.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64025754772a59eb40d615ca"
+  },
+  "name": "Mavis Schultz Yundt",
+  "age": 38,
+  "gender": "male",
+  "email": "kmeus4@upenn.edu",
+  "phone": {
+    "$numberLong": "3722857711911"
+  },
+  "username": "kmeus4",
+  "password": "aUTdmmmbH",
+  "birth_date": "1968-11-03",
+  "usr_img": "0006_1677875028621.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:23:48.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640257a8772a59eb40d615cc"
+  },
+  "name": "Alison Reichert Franecki",
+  "age": 21,
+  "gender": "female",
+  "email": "jtreleven5@nhs.uk",
+  "phone": {
+    "$numberLong": "3515277353642"
+  },
+  "username": "jtreleven5",
+  "password": "zY1nE46Zm",
+  "birth_date": "1969-07-21",
+  "usr_img": "0007_1677875112836.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:25:12.838Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6402583a514f609d4388f39d"
+  },
+  "name": "Oleta Abbott Wyman",
+  "age": 31,
+  "gender": "female",
+  "email": "dpettegre6@columbia.edu",
+  "phone": {
+    "$numberLong": "62648027111"
+  },
+  "username": "dpettegre6",
+  "password": "YVmhktgYVS",
+  "birth_date": "1982-02-21",
+  "usr_img": "0008_1677875258685.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:27:38.727Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6402598f514f609d4388f39f"
+  },
+  "name": "Ewell Mueller Durgan",
+  "age": 29,
+  "gender": "male",
+  "email": "ggude7@chron.com",
+  "phone": {
+    "$numberLong": "869462972275"
+  },
+  "username": "ggude7",
+  "password": "MWwlaeWcOoF6",
+  "birth_date": "1964-08-24",
+  "usr_img": "0016_1677876936508.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:33:19.569Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640259d5514f609d4388f3a1"
+  },
+  "name": "Vignesh",
+  "age": 37,
+  "gender": "Male",
+  "email": "umcgourty@gmail.com",
+  "phone": {
+    "$numberLong": "7875943456"
+  },
+  "username": "nloiterton8",
+  "password": "HTQxxXV9Bq4",
+  "birth_date": "1971-03-11",
+  "usr_img": "0077_1681031404004.jpg",
+  "created_at": {
+    "$date": "2023-03-03T20:34:29.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a060db6dda0a597c612a"
+  },
+  "name": "Eleanora Price Cummings",
+  "age": 100,
+  "gender": "female",
+  "email": "umcgourty9@jalbum.net",
+  "phone": {
+    "$numberLong": "601844080824"
+  },
+  "username": "elepricecumm",
+  "password": "i0xzpX",
+  "birth_date": "1958-08-11",
+  "usr_img": "0078_1681039456929.jpg",
+  "created_at": {
+    "$date": "2023-04-09T11:24:16.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a0c719eed0bcf9b4bbe5"
+  },
+  "name": "Eleanora Price Cummings",
+  "age": 100,
+  "gender": "female",
+  "email": "umcgourty9@jalbum.net",
+  "phone": {
+    "$numberLong": "601844080824"
+  },
+  "username": "elepricecumm",
+  "password": "i0xzpX",
+  "birth_date": "1996-10-26",
+  "usr_img": "0081_1681040191706.jpg",
+  "created_at": {
+    "$date": "2023-04-09T11:25:59.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a0f719eed0bcf9b4bbe7"
+  },
+  "name": "Pratik Shah",
+  "age": 20,
+  "gender": "Male",
+  "email": "shah_praxx@jalbum.net",
+  "phone": {
+    "$numberLong": "601844080824"
+  },
+  "username": "elepricecumm",
+  "password": "i0xzpX",
+  "birth_date": "1996-10-26",
+  "usr_img": "0082_1681043946573.jpg",
+  "created_at": {
+    "$date": "2023-04-09T11:26:47.647Z"
+  },
+  "__v": 0
+}]

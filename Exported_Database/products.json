@@ -1,0 +1,353 @@
+[{
+  "_id": {
+    "$oid": "6402357c1696c614a404f7ab"
+  },
+  "title": "iPhone X",
+  "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+  "price": 899,
+  "discount_percent": 17.94,
+  "rating": 4.44,
+  "stock": 34,
+  "brand": "Apple",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": "0007_1677866364626.jpg",
+  "created_at": {
+    "$date": "2023-03-03T17:59:24.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640235dc1696c614a404f7ad"
+  },
+  "title": "Samsung Universe 9",
+  "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+  "price": 1249,
+  "discount_percent": 15.46,
+  "rating": 4.09,
+  "stock": 36,
+  "brand": "Samsung",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": "0005_1677866460977.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:01:00.979Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640236231696c614a404f7af"
+  },
+  "title": "OPPOF19",
+  "description": "OPPO F19 is officially announced on April 2021.",
+  "price": 280,
+  "discount_percent": 17.91,
+  "rating": 4.3,
+  "stock": 123,
+  "brand": "OPPO",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": "0002_1677866531938.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:02:11.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640236831696c614a404f7b1"
+  },
+  "title": "MacBook Pro",
+  "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+  "price": 1749,
+  "discount_percent": 11.02,
+  "rating": 4.57,
+  "stock": 83,
+  "brand": "Apple",
+  "prod_cat_id": {
+    "$oid": "6400df37581e3c4785e64bfc"
+  },
+  "thumbnail": "0025_1677866627814.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:03:47.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640236d11696c614a404f7b3"
+  },
+  "title": "Samsung Galaxy Book",
+  "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+  "price": 1499,
+  "discount_percent": 4.15,
+  "rating": 4.25,
+  "stock": 50,
+  "brand": "Samsung",
+  "prod_cat_id": {
+    "$oid": "6400df37581e3c4785e64bfc"
+  },
+  "thumbnail": "0028_1677866705554.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:05:05.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6402371f1696c614a404f7b5"
+  },
+  "title": "perfume Oil",
+  "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+  "price": 13,
+  "discount_percent": 8.4,
+  "rating": 4.26,
+  "stock": 65,
+  "brand": "Impression of Acqua Di Gio",
+  "prod_cat_id": {
+    "$oid": "6400df3e581e3c4785e64bfe"
+  },
+  "thumbnail": "0022_1677866783756.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:06:23.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640237691696c614a404f7b7"
+  },
+  "title": "Brown Perfume",
+  "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+  "price": 40,
+  "discount_percent": 15.66,
+  "rating": 4,
+  "stock": 52,
+  "brand": "Royal_Mirage",
+  "prod_cat_id": {
+    "$oid": "6400df3e581e3c4785e64bfe"
+  },
+  "thumbnail": "0032_1677866857756.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:07:37.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640237cd1696c614a404f7b9"
+  },
+  "title": "Hyaluronic Acid Serum",
+  "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+  "price": 19,
+  "discount_percent": 13.31,
+  "rating": 4.83,
+  "stock": 110,
+  "brand": "L'Oreal Paris",
+  "prod_cat_id": {
+    "$oid": "6400df46581e3c4785e64c00"
+  },
+  "thumbnail": "0107_1677872086260.jpg",
+  "created_at": {
+    "$date": "2023-03-03T18:09:17.338Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64024c9ab7569c6ff8bb58ae"
+  },
+  "title": "Tree Oil 30ml",
+  "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+  "price": 12,
+  "discount_percent": 4.09,
+  "rating": 4.52,
+  "stock": 78,
+  "brand": "Hemani Tea",
+  "prod_cat_id": {
+    "$oid": "6400df46581e3c4785e64c00"
+  },
+  "thumbnail": "0129_1677872282045.jpg",
+  "created_at": {
+    "$date": "2023-03-03T19:38:02.047Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432cfa8c3a21e7f3b1c69cb"
+  },
+  "title": "OPPOF19",
+  "description": "OPPO F19 is officially announced on April 2021.",
+  "price": 280,
+  "discount_percent": 17.91,
+  "rating": 4.3,
+  "stock": 13,
+  "brand": "Oppo",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": "0083_1681051560950.jpg",
+  "created_at": {
+    "$date": "2023-04-09T14:46:00.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432d024e9a45fd10e0ec1d1"
+  },
+  "title": "Huawei P30",
+  "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+  "price": 499,
+  "discount_percent": 10.58,
+  "rating": 4.09,
+  "stock": 32,
+  "brand": "Huawei",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": "0084_1681051684829.jpg",
+  "created_at": {
+    "$date": "2023-04-09T14:48:04.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432eb076c440af0db5d80df"
+  },
+  "title": "Microsoft Surface Laptop 4",
+  "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+  "price": 1499,
+  "discount_percent": 10.23,
+  "rating": 4.43,
+  "stock": 68,
+  "brand": "Microsoft Surface",
+  "prod_cat_id": {
+    "$oid": "6400df37581e3c4785e64bfc"
+  },
+  "thumbnail": [
+    "0091_1681058567769.jpg",
+    "0092_1681058567771.jpg",
+    "0093_1681058567771.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-09T16:42:47.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444f98ea379e40b54e2d680"
+  },
+  "title": "iPhone 9",
+  "description": "An apple mobile which is nothing like apple",
+  "price": 549,
+  "discount_percent": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Apple",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": [
+    "0024_1682241934139.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-23T09:25:34.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444fe62f19bc2eb7a1808d1"
+  },
+  "title": "Nothin 1",
+  "description": "An Nothing mobile which is nothing like apple",
+  "price": 30000,
+  "discount_percent": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Nothing",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": [
+    "0084_1682243170400.jpg",
+    "0085_1682243170401.jpg",
+    "0086_1682243170423.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-23T09:46:10.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444fecbf19bc2eb7a1808d5"
+  },
+  "title": "Nothing 1",
+  "description": "An Nothing mobile which is nothing like apple",
+  "price": 30000,
+  "discount_percent": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Nothing",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": [
+    "0130_1682243275183.jpg",
+    "0131_1682243275183.jpg",
+    "0132_1682243275185.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-23T09:47:55.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444ff86f19bc2eb7a1808d9"
+  },
+  "title": "Samsung Galaxy Book",
+  "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+  "price": 1500,
+  "discount_percent": 4.15,
+  "rating": 4.25,
+  "stock": 50,
+  "brand": "Samsung",
+  "prod_cat_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "thumbnail": [
+    "0088_1682243462905.jpg",
+    "0089_1682243462909.jpg",
+    "0090_1682243462911.jpg",
+    "0091_1682243462912.jpg",
+    "0092_1682243462913.jpg",
+    "0093_1682243557882.jpg",
+    "0094_1682243557884.jpg",
+    "0095_1682243557887.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-23T09:51:02.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64453b2422d7a850c4d552a3"
+  },
+  "title": "Infinix INBOOK",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+  "price": 1099,
+  "discount_percent": 11.83,
+  "rating": 4.54,
+  "stock": 96,
+  "brand": "Infinix",
+  "prod_cat_id": {
+    "$oid": "6400df37581e3c4785e64bfc"
+  },
+  "thumbnail": [
+    "0090_1682258724392.jpg",
+    "0091_1682258724394.jpg",
+    "0092_1682258724398.jpg",
+    "0093_1682258724400.jpg",
+    "0095_1682258724406.jpg"
+  ],
+  "created_at": {
+    "$date": "2023-04-23T14:05:24.419Z"
+  },
+  "__v": 0
+}]

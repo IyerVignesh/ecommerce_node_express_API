@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "640f673ce87f1cd2c52fab2e"
+  },
+  "prod_id": {
+    "$oid": "6402357c1696c614a404f7ab"
+  },
+  "prod_title": "iPhone X",
+  "prod_img": "0007_1677866364626.jpg",
+  "prod_qty": 1,
+  "prod_price": "899",
+  "usr_id": {
+    "$oid": "64025709772a59eb40d615c8"
+  },
+  "created_at": {
+    "$date": "2023-03-13T18:11:08.467Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640f67a6e87f1cd2c52fab31"
+  },
+  "prod_id": {
+    "$oid": "640236231696c614a404f7af"
+  },
+  "prod_title": "OPPOF19",
+  "prod_img": "0002_1677866531938.jpg",
+  "prod_qty": 5,
+  "prod_price": "280",
+  "usr_id": {
+    "$oid": "64025709772a59eb40d615c8"
+  },
+  "created_at": {
+    "$date": "2023-03-13T18:12:54.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640f67b6e87f1cd2c52fab34"
+  },
+  "prod_id": {
+    "$oid": "640236831696c614a404f7b1"
+  },
+  "prod_title": "MacBook Pro",
+  "prod_img": "0025_1677866627814.jpg",
+  "prod_qty": 1,
+  "prod_price": "1749",
+  "usr_id": {
+    "$oid": "64025709772a59eb40d615c8"
+  },
+  "created_at": {
+    "$date": "2023-03-13T18:13:10.993Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640f6806e87f1cd2c52fab43"
+  },
+  "prod_id": {
+    "$oid": "640237691696c614a404f7b7"
+  },
+  "prod_title": "Brown Perfume",
+  "prod_img": "0032_1677866857756.jpg",
+  "prod_qty": 8,
+  "prod_price": "40",
+  "usr_id": {
+    "$oid": "6402598f514f609d4388f39f"
+  },
+  "created_at": {
+    "$date": "2023-03-13T18:14:30.856Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641aefdddeaddecd5bb84985"
+  },
+  "prod_id": {
+    "$oid": "640235dc1696c614a404f7ad"
+  },
+  "prod_title": "Samsung Universe 9",
+  "prod_img": "0005_1677866460977.jpg",
+  "prod_qty": 4,
+  "prod_price": "1249",
+  "usr_id": {
+    "$oid": "6402598f514f609d4388f39f"
+  },
+  "created_at": {
+    "$date": "2023-03-22T12:09:01.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b1809eb7b243119642648"
+  },
+  "prod_id": {
+    "$oid": "6402371f1696c614a404f7b5"
+  },
+  "prod_title": "perfume Oil",
+  "prod_img": "0022_1677866783756.jpg",
+  "prod_qty": 1,
+  "prod_price": "13",
+  "usr_id": {
+    "$oid": "6402598f514f609d4388f39f"
+  },
+  "created_at": {
+    "$date": "2023-03-22T15:00:25.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b1ef057d96c5ba1085db7"
+  },
+  "prod_id": {
+    "$oid": "6402357c1696c614a404f7ab"
+  },
+  "prod_title": "iPhone X",
+  "prod_img": "0007_1677866364626.jpg",
+  "prod_qty": 1,
+  "prod_price": "899",
+  "usr_id": {
+    "$oid": "640257a8772a59eb40d615cc"
+  },
+  "created_at": {
+    "$date": "2023-03-22T15:29:52.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b1efb57d96c5ba1085dbb"
+  },
+  "prod_id": {
+    "$oid": "6402371f1696c614a404f7b5"
+  },
+  "prod_title": "perfume Oil",
+  "prod_img": "0022_1677866783756.jpg",
+  "prod_qty": 1,
+  "prod_price": "13",
+  "usr_id": {
+    "$oid": "640257a8772a59eb40d615cc"
+  },
+  "created_at": {
+    "$date": "2023-03-22T15:30:03.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b1f0757d96c5ba1085dbf"
+  },
+  "prod_id": {
+    "$oid": "640237cd1696c614a404f7b9"
+  },
+  "prod_title": "Hyaluronic Acid Serum",
+  "prod_img": "0107_1677872086260.jpg",
+  "prod_qty": 5,
+  "prod_price": "19",
+  "usr_id": {
+    "$oid": "640257a8772a59eb40d615cc"
+  },
+  "created_at": {
+    "$date": "2023-03-22T15:30:15.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b1f1457d96c5ba1085dd3"
+  },
+  "prod_id": {
+    "$oid": "640236d11696c614a404f7b3"
+  },
+  "prod_title": "Samsung Galaxy Book",
+  "prod_img": "0028_1677866705554.jpg",
+  "prod_qty": 1,
+  "prod_price": "1499",
+  "usr_id": {
+    "$oid": "640257a8772a59eb40d615cc"
+  },
+  "created_at": {
+    "$date": "2023-03-22T15:30:28.782Z"
+  },
+  "__v": 0
+}]

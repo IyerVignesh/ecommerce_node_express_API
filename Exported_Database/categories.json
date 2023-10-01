@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "6400df29581e3c4785e64bfa"
+  },
+  "name": "smartphones",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:38:49.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df37581e3c4785e64bfc"
+  },
+  "name": "laptops",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:03.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df3e581e3c4785e64bfe"
+  },
+  "name": "fragrances",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:10.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df46581e3c4785e64c00"
+  },
+  "name": "skincare",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:18.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df4c581e3c4785e64c02"
+  },
+  "name": "groceries",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:24.553Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df58581e3c4785e64c04"
+  },
+  "name": "home-decoration",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:36.624Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df6c581e3c4785e64c06"
+  },
+  "name": "furniture",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:39:56.896Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df80581e3c4785e64c08"
+  },
+  "name": "tops",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:40:16.689Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df8c581e3c4785e64c0a"
+  },
+  "name": "womens-dresses",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:40:28.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400df9a581e3c4785e64c0c"
+  },
+  "name": "womens-shoes",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:40:42.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400dfab581e3c4785e64c0e"
+  },
+  "name": "mens-shirts",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:40:59.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400dfb8581e3c4785e64c10"
+  },
+  "name": "mens-shoes",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:41:12.976Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400dfdf581e3c4785e64c12"
+  },
+  "name": "mens-watches",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:41:51.861Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400dfea581e3c4785e64c14"
+  },
+  "name": "womens-watches",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:42:02.537Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400dff6581e3c4785e64c16"
+  },
+  "name": "womens-bags",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:42:14.376Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400e007581e3c4785e64c18"
+  },
+  "name": "womens-jewellery",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:42:31.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400e011581e3c4785e64c1a"
+  },
+  "name": "sunglasses",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:42:41.993Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6400e02a581e3c4785e64c1c"
+  },
+  "name": "motorcycle",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-03-02T17:43:06.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64023053fa5bf3b20d82ecb5"
+  },
+  "name": "Indoor decoration",
+  "description": "Semi auto & auto washing machine",
+  "updated_at": {
+    "$date": "2023-03-03T17:37:23.671Z"
+  },
+  "__v": 0
+}]
